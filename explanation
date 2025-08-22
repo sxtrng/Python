@@ -1,0 +1,4 @@
+Using print function to print string literal.
+Text can go either in single or double quotes, but the style must be consistent.
+
+With the second print(), a variable is used.
